@@ -1,10 +1,10 @@
-# gp-a-starter
+# gp-1-starter
 
-## Guided Practice A - GitHub Practice
+## Guided Practice 1 - GitHub Practice
 
 Example repository used with the GitHub tutorial assignment
 
-Here is my CS 1110 POTD assignments!
+Here is my Intro Programming POTD assignments!
 ...
 
 I think they all work... can you check them for me?
